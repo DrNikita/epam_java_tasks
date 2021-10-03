@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e789c440-cc6b-4d03-bdd9-8cd51a473625" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/src/by/epam/decomposition/t_1/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/src/by/epam/decomposition/t_10/Task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/src/by/epam/decomposition/t_11/Task_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/src/by/epam/decomposition/t_12/Task_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/src/by/epam/decomposition/t_13/Task_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/src/by/epam/decomposition/t_14/Task_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/src/by/epam/decomposition/t_15/Task_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/src/by/epam/decomposition/t_16/Task_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/src/by/epam/decomposition/t_2/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/src/by/epam/decomposition/t_3/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/src/by/epam/decomposition/t_4/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/src/by/epam/decomposition/t_5/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/src/by/epam/decomposition/t_6/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/src/by/epam/decomposition/t_7/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/src/by/epam/decomposition/t_8/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/src/by/epam/decomposition/t_9/Task_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/bin/by/epam/sorting/task_1/Task_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/src/by/epam/sorting/task_1/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/src/by/epam/sorting/task_2/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_3/src/by/epam/sorting/task_3/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_4/src/by/epam/sorting/task_4/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_5/src/by/epam/sorting/task_5/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_6/src/by/epam/sorting/task_6/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_7/src/by/epam/sorting/task_7/Task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_8/src/by/epam/sorting/task_8/Task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/bin/by/epam/basic/branching_1/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/bin/by/epam/basic/branching_1/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_1/src/by/epam/basic/branching_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_1/src/by/epam/basic/branching_1/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/bin/by/epam/basic/branching_2/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/bin/by/epam/basic/branching_2/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_2/src/by/epam/basic/branching_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_2/src/by/epam/basic/branching_2/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/bin/by/epam/basic/branching_3/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/bin/by/epam/basic/branching_3/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_3/src/by/epam/basic/branching_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_3/src/by/epam/basic/branching_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/bin/by/epam/basic/branching_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/bin/by/epam/basic/branching_4/Task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_4/src/by/epam/basic/branching_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_4/src/by/epam/basic/branching_4/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/bin/by/epam/basic/branching_5/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/bin/by/epam/basic/branching_5/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_5/src/by/epam/basic/branching_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_5/src/by/epam/basic/branching_5/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_branching_6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_branching_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/bin/by/epam/basic/cycle_1/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/bin/by/epam/basic/cycle_1/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_1/src/by/epam/basic/cycle_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_1/src/by/epam/basic/cycle_1/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/bin/by/epam/basic/cycle_2/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/bin/by/epam/basic/cycle_2/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_2/src/by/epam/basic/cycle_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_2/src/by/epam/basic/cycle_2/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/bin/by/epam/basic/cycle_3/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/bin/by/epam/basic/cycle_3/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_3/src/by/epam/basic/cycle_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_3/src/by/epam/basic/cycle_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/bin/by/epam/basic/cycle_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/bin/by/epam/basic/cycle_4/Task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_4/src/by/epam/basic/cycle_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_4/src/by/epam/basic/cycle_4/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/bin/by/epam/basic/cycle_5/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/bin/by/epam/basic/cycle_5/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_5/src/by/epam/basic/cycle_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_5/src/by/epam/basic/cycle_5/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/bin/by/epam/basic/cycle_6/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/bin/by/epam/basic/cycle_6/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_6/src/by/epam/basic/cycle_6/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_6/src/by/epam/basic/cycle_6/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/bin/by/epam/basic/cycle_7/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/bin/by/epam/basic/cycle_7/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_7/src/by/epam/basic/cycle_7/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_7/src/by/epam/basic/cycle_7/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/bin/by/epam/basic/cycle_8/Task_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/bin/by/epam/basic/cycle_8/Task_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_cycle_8/src/by/epam/basic/cycle_8/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_cycle_8/src/by/epam/basic/cycle_8/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/bin/by/epam/basic/linear_prog_1/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/bin/by/epam/basic/linear_prog_1/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_1/src/by/epam/basic/linear_prog_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_1/src/by/epam/basic/linear_prog_1/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_2/bin/by/epam/basic/linear_prog_2/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_2/bin/by/epam/basic/linear_prog_2/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_2/src/by/epam/basic/linear_prog_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_2/src/by/epam/basic/linear_prog_2/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/bin/by/epam/basic/linear_prog_3/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/bin/by/epam/basic/linear_prog_3/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_3/src/by/epam/basic/linear_prog_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_3/src/by/epam/basic/linear_prog_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/bin/by/epam/basic/linear_prog_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/bin/by/epam/basic/linear_prog_4/Task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_4/src/by/epam/basic/linear_prog_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_4/src/by/epam/basic/linear_prog_4/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/bin/by/epam/basic/linear_prog_5/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/bin/by/epam/basic/linear_prog_5/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_5/src/by/epam/basic/linear_prog_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_5/src/by/epam/basic/linear_prog_5/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/bin/by/epam/basic/linear_prog_6/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/bin/by/epam/basic/linear_prog_6/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_6/src/by/epam/basic/linear_prog_6/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_6/src/by/epam/basic/linear_prog_6/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_7/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_7/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_7/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_7/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_7/bin/by/epam/basic/linear_prog_7/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_7/bin/by/epam/basic/linear_prog_7/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_linear_prog_7/src/by/epam/basic/linear_prog_7/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1. Basic/Basic_linear_prog_7/src/by/epam/basic/linear_prog_7/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/bin/by/epam/algorithmicization/task_1/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/bin/by/epam/algorithmicization/task_1/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask1/src/by/epam/algorithmicization/task_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/src/by/epam/algorithmicization/task_1/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_10/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/bin/by/epam/algorithmization/task_10/Task_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/bin/by/epam/algorithmization/task_10/Task_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask10/src/by/epam/algorithmization/task_10/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/src/by/epam/algorithmization/task_10/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_11/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/bin/by/epam/algorithmicization/task_2/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/bin/by/epam/algorithmicization/task_2/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask2/src/by/epam/algorithmicization/task_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/src/by/epam/algorithmicization/task_2/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_12/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/bin/by/epam/algorithmicization/task_3/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/bin/by/epam/algorithmicization/task_3/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask3/src/by/epam/algorithmicization/task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/src/by/epam/algorithmicization/task_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_13/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/bin/by/epam/algorithmicization/task_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/bin/by/epam/algorithmicization/task_4/Task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask4/src/by/epam/algorithmicization/task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/src/by/epam/algorithmicization/task_4/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_14/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/bin/by/epam/algorithmicization/task_5/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/bin/by/epam/algorithmicization/task_5/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask5/src/by/epam/algorithmicization/task_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/src/by/epam/algorithmicization/task_5/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_15/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/bin/by/epam/algorithmicization/one_arr_6/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/bin/by/epam/algorithmicization/one_arr_6/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask6/src/by/epam/algorithmicization/one_arr_6/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/src/by/epam/algorithmicization/one_arr_6/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_16/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/bin/by/epam/algorithmicization/task_7/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/bin/by/epam/algorithmicization/task_7/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask7/src/by/epam/algorithmicization/task_7/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/src/by/epam/algorithmicization/task_7/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/bin/by/epam/algorithmicization/task_8/Task_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/bin/by/epam/algorithmicization/task_8/Task_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask8/src/by/epam/algorithmicization/task_8/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/src/by/epam/algorithmicization/task_8/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/bin/by/epam/algorithmicization/task_9/Task_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/bin/by/epam/algorithmicization/task_9/Task_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArrTask9/src/by/epam/algorithmicization/task_9/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/src/by/epam/algorithmicization/task_9/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/bin/by/epam/sorting/task_1/Task_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_1/src/by/epam/sorting/task_1/Task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting_2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneArraySorting_2/src/by/epam/sorting/task_2/Task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/bin/by/epam/two_dimensional_arr/task_1/Task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/bin/by/epam/two_dimensional_arr/task_1/Task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_1/src/by/epam/two_dimensional_arr/task_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_1/src/by/epam/two_dimensional_arr/task_1/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/bin/by/epam/two_dimensional_arr/task_10/Task_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/bin/by/epam/two_dimensional_arr/task_10/Task_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_10/src/by/epam/two_dimensional_arr/task_10/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_10/src/by/epam/two_dimensional_arr/task_10/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/bin/by/epam/two_dimensional_arr/task_11/Task_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/bin/by/epam/two_dimensional_arr/task_11/Task_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_11/src/by/epam/two_dimensional_arr/task_11/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_11/src/by/epam/two_dimensional_arr/task_11/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_8/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/bin/by/epam/two_dimensional_arr/task_12/Task_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/bin/by/epam/two_dimensional_arr/task_12/Task_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_12/src/by/epam/two_dimensional_arr/task_12/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_12/src/by/epam/two_dimensional_arr/task_12/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Decompos_9/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/bin/by/epam/two_dimensional_arr/task_13/Task_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/bin/by/epam/two_dimensional_arr/task_13/Task_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_13/src/by/epam/two_dimensional_arr/task_13/Task_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_13/src/by/epam/two_dimensional_arr/task_13/Task_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/bin/by/epam/two_dimensional_arr/task_14/Task_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/bin/by/epam/two_dimensional_arr/task_14/Task_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_14/src/by/epam/two_dimensional_arr/task_14/Task_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_14/src/by/epam/two_dimensional_arr/task_14/Task_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask10/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/bin/by/epam/two_dimensional_arr/task_15/Task_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/bin/by/epam/two_dimensional_arr/task_15/Task_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_15/src/by/epam/two_dimensional_arr/task_15/Task_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_15/src/by/epam/two_dimensional_arr/task_15/Task_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/bin/by/epam/two_dimensional_arr/task_16/Task_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/bin/by/epam/two_dimensional_arr/task_16/Task_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_16/src/by/epam/two_dimensional_arr/task_16/Task_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_16/src/by/epam/two_dimensional_arr/task_16/Task_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/bin/by/epam/two_dimensional_arr/task_2/Task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/bin/by/epam/two_dimensional_arr/task_2/Task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_2/src/by/epam/two_dimensional_arr/task_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_2/src/by/epam/two_dimensional_arr/task_2/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/bin/by/epam/two_dimensional_arr/task_3/Task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/bin/by/epam/two_dimensional_arr/task_3/Task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_3/src/by/epam/two_dimensional_arr/task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_3/src/by/epam/two_dimensional_arr/task_3/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/bin/by/epam/two_dimensional_arr/task_4/Task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/bin/by/epam/two_dimensional_arr/task_4/Task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_4/src/by/epam/two_dimensional_arr/task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_4/src/by/epam/two_dimensional_arr/task_4/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask6/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/bin/by/epam/two_dimensional_arr/task_6/Task_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/bin/by/epam/two_dimensional_arr/task_6/Task_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/src/by/epam/two_dimensional_arr/task_6/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/src/by/epam/two_dimensional_arr/task_6/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_6/src/by/epam/two_dimensional_arr/task_6/Ефыл_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_6/src/by/epam/two_dimensional_arr/task_6/Ефыл_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask7/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/bin/by/epam/two_dimensional_arr/task_7/Task_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/bin/by/epam/two_dimensional_arr/task_7/Task_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_7/src/by/epam/two_dimensional_arr/task_7/Task_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_7/src/by/epam/two_dimensional_arr/task_7/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask8/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/bin/by/epam/two_dimensional_arr/task_8/Task_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/bin/by/epam/two_dimensional_arr/task_8/Task_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_8/src/by/epam/two_dimensional_arr/task_8/Task_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_8/src/by/epam/two_dimensional_arr/task_8/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArrTask9/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/bin/by/epam/two_dimensional_arr/task_9/Task_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/bin/by/epam/two_dimensional_arr/task_9/Task_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-dimensional_array_9/src/by/epam/two_dimensional_arr/task_9/Task_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two-dimensional_array_9/src/by/epam/two_dimensional_arr/task_9/Task_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/OneArraySorting/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/bin/by/epam/two_dimensional_arr/task_5/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/bin/by/epam/two_dimensional_arr/task_5/Task_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two_dimensional_array_5/src/by/epam/two_dimensional_arr/task_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2. Arrays/Two_dimensional_array_5/src/by/epam/two_dimensional_arr/task_5/Task_5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1t4YtIhB5meLUJXR0A8cxTZ2eLK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e789c440-cc6b-4d03-bdd9-8cd51a473625" name="Default Changelist" comment="" />
+      <created>1622030045291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622030045291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

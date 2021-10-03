@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>Andrey</name>
+		<gender>Male</gender>
+		<age>17</age>
+		<adress>Minsk</adress>
+		<mobile_phone>+375251111111</mobile_phone>
+	</student>
+	<student>
+		<name>Nikita</name>
+		<gender>Male</gender>
+		<age>19</age>
+		<adress>Minsk</adress>
+		<mobile_phone>+375257047715</mobile_phone>
+	</student>
+	<student>
+		<name>Egor</name>
+		<gender>Male</gender>
+		<age>21</age>
+		<adress>Minsk</adress>
+		<mobile_phone>+375250000000</mobile_phone>
+	</student>
+	<student>
+		<name>Yana</name>
+		<gender>Female</gender>
+		<age>20</age>
+		<adress>Vitebsk</adress>
+		<mobile_phone>+375251234567</mobile_phone>
+	</student>
+	<student>
+		<name>Pavel</name>
+		<gender>Male</gender>
+		<age>44</age>
+		<adress>Grodno</adress>
+		<mobile_phone>+375257654321</mobile_phone>
+	</student>
+</students>
